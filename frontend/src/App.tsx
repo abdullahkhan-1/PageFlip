@@ -1,5 +1,5 @@
 import ProtectedRoute from './components/ProtectedRoute'
-import Library from './pages/Library'
+import Library from './pages/library'
 
 function App() {
   return (
